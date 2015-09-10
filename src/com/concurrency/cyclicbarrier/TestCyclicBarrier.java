@@ -3,6 +3,7 @@ package com.concurrency.cyclicbarrier;
 public class TestCyclicBarrier {
   public static void main(String a[])
   {
-    System.out.println("Helloo");
+    System.out.println("Hello");
+    System.out.println("Hello");
   }
 }
