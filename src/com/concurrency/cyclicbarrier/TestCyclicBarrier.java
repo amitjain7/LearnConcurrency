@@ -8,5 +8,8 @@ public class TestCyclicBarrier {
     System.out.println("Hello");
     System.out.println("Hello");
     System.out.println("Hello");
+    System.out.println("fixes1");
+    System.out.println("Hello");
+    System.out.println("Hello");
   }
 }
