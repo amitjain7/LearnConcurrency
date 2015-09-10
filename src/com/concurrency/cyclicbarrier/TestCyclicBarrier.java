@@ -10,5 +10,6 @@ public class TestCyclicBarrier {
     System.out.println("Hello");
     System.out.println("Hello");
     System.out.println("aaaaa");
+    System.out.println("bbbbb");
   }
 }
