@@ -14,5 +14,7 @@ public class TestCyclicBarrier {
     System.out.println("ddddd");
     System.out.println("stach");  //ff
     
+    System.out.println("10 dec 2015");  //ff
+    
   }
 }
